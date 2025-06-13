@@ -1,6 +1,6 @@
 #  Hi, I'm Saif!
 
-I'm a **Tech Lead & Software Architect** with a passion for designing scalable cloud-native applications using **Microsoft Azure**, **C#**, and **.NET**, **Node.js**, **Python**.
+I'm a **Tech Lead & Software Architect** with a passion for designing scalable cloud-native applications using **Microsoft Azure**, **C#**, **.NET**, **Node.js**, and **Python**.
 
  With over 10  years of experience in software development, I focus on:
 - Architecting modern enterprise systems
